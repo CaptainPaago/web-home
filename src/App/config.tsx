@@ -8,7 +8,7 @@ const config: Config = {
     aria: 'My name is Dele Paago',
   },
   title: {
-    display: 'Software Engineer',
+    display: 'Software Engineer. Writer. Politician',
     aria: 'I am a software engineer',
   },
   
