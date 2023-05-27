@@ -4,8 +4,8 @@ import { Email, GitHub, LinkedIn, Resume } from 'icons';
 
 const config: Config = {
   name: {
-    display: 'Adam Alston',
-    aria: 'My name is Adam Alston',
+    display: 'Dele Paago',
+    aria: 'My name is Dele Paago',
   },
   title: {
     display: 'Software Engineer',
@@ -16,13 +16,13 @@ const config: Config = {
       display: 'GitHub',
       aria: 'Visit my GitHub profile',
       icon: <GitHub />,
-      href: 'https://github.com/adamalston/',
+      href: 'https://github.com/captainpaago/',
     },
     {
       display: 'LinkedIn',
       aria: 'Visit my LinkedIn profile',
       icon: <LinkedIn />,
-      href: 'https://www.linkedin.com/in/adam-alston/',
+      href: 'https://www.linkedin.com/in/dbpaago/',
     },
     {
       display: 'Resume',
@@ -34,7 +34,7 @@ const config: Config = {
       display: 'Email',
       aria: 'Send me an email',
       icon: <Email />,
-      href: 'mailto:aalston9@gmail.com',
+      href: 'mailto:delebliss42@gmail.com',
     },
   ],
 };
