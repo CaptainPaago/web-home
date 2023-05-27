@@ -11,6 +11,7 @@ const config: Config = {
     display: 'Software Engineer',
     aria: 'I am a software engineer',
   },
+  
   buttons: [
     {
       display: 'GitHub',
@@ -25,10 +26,10 @@ const config: Config = {
       href: 'https://www.linkedin.com/in/dbpaago/',
     },
     {
-      display: 'Resume',
-      aria: 'View my resume in Google Drive',
+      display: 'Substack',
+      aria: 'Read my thoughts',
       icon: <Resume />,
-      href: 'https://drive.google.com/drive/folders/10k8NWflSYQ5laPzuWtK3bzUKzuOeas8i/',
+      href: 'https://dibby.substack.com/',
     },
     {
       display: 'Email',

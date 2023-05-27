@@ -31,17 +31,20 @@ const Footer: React.FC = () => {
       <F.Text
         data-v2="footer"
         theme={theme}
-        aria-label="Designed and built by Adam Alston"
+        aria-label="Designed and built by Dele Paago"
+
+    //Actually made by Adam Alston and edited to fit
+
       >
         {'Designed and built by '}
         <F.Link
           data-v2="creator"
           theme={theme}
-          href="https://www.adamalston.com"
-          aria-label="Adam's website"
-          title="A link to Adam's personal website"
+          href="https://www.delepaago.netlify.app"
+          aria-label="Dele's Website"
+          title="A link to Dele's personal website"
         >
-          {'Adam Alston'}
+          {'Dele Paago'}
         </F.Link>
         {!isMobile && (
           <>
@@ -49,7 +52,7 @@ const Footer: React.FC = () => {
             <F.Link
               data-v2="source"
               theme={theme}
-              href="https://github.com/adamalston/v2/"
+              href="https://github.com/captainpaago/web-home"
               aria-label="Source code"
               title="View this website's source code in GitHub"
             >
